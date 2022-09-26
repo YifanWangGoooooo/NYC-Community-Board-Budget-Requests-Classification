@@ -1,0 +1,4 @@
+# NYC-Community-Board-Budget-Requests-Classification
+NLP and Machine Learning for NYC Community Board Budget Requests Classification
+In the actuarial industry, It is not uncommon that there will be certain differences between the expected payment calculated by the insurance company and the ultimate amount paid to the policyholders at the end of the insurance claim procedure. When the policyholder’s ultimate payment is higher than expected, it is considered as an actuarial loss, which is an unfavorable circumstance for the insurance company. It is because that the actuarial loss is unexpected which would not only reduce the retained earnings but also retard the litigation process and decrease the client retention rate.
+The scope of our project focuses on developing an efficient and accurate Claim Cost Pricing System to help decrease actuarial loss.
